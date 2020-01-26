@@ -26,7 +26,7 @@
       </ThreadGroup>
       <hashTree>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
-          <stringProp name="filename">D:/Studia/Semestr V/Podstawy Testowania/Zadanie1b/selectData.txt</stringProp>
+          <stringProp name="filename">D:/Studia/SemestrV/PodstawyTestowania/Zadanie1b/selectData.txt</stringProp>
           <stringProp name="fileEncoding"></stringProp>
           <stringProp name="variableNames">nameSearch</stringProp>
           <boolProp name="ignoreFirstLine">false</boolProp>
@@ -38,7 +38,7 @@
         </CSVDataSet>
         <hashTree/>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
-          <stringProp name="filename">D:/Studia/Semestr V/Podstawy Testowania/Zadanie1b/insertData.txt</stringProp>
+          <stringProp name="filename">D:/Studia/SemestrV/PodstawyTestowania/Zadanie1b/insertData.txt</stringProp>
           <stringProp name="fileEncoding"></stringProp>
           <stringProp name="variableNames">name,surname,pesel</stringProp>
           <boolProp name="ignoreFirstLine">false</boolProp>
@@ -53,12 +53,12 @@
           <collectionProp name="Arguments.arguments">
             <elementProp name="connectResultPath" elementType="Argument">
               <stringProp name="Argument.name">connectResultPath</stringProp>
-              <stringProp name="Argument.value">D:\\Studia\\Semestr V\\Podstawy Testowania\\Zadanie1b\\result.txt</stringProp>
+              <stringProp name="Argument.value">D:\\Studia\\SemestrV\\PodstawyTestowania\\Zadanie1b\\result.txt</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="alertPath" elementType="Argument">
               <stringProp name="Argument.name">alertPath</stringProp>
-              <stringProp name="Argument.value">D:\\Studia\\Semestr V\\Podstawy Testowania\\Zadanie1b\\db_performance_Alert.txt</stringProp>
+              <stringProp name="Argument.value">D:\\Studia\\SemestrV\\PodstawyTestowania\\Zadanie1b\\db_performance_Alert.txt</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="stringPass" elementType="Argument">
